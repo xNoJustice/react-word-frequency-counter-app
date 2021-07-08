@@ -1,4 +1,4 @@
-<img src="" alt="" />
+<img src="https://github.com/xNoJustice/react-word-frequency-counter-app/blob/5933d91908f696b0c6d44f86d97eb41699ace143/word-frequency-counter-app.gif" alt="" />
 
 # Getting Started with Create React App
 
